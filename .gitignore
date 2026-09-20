@@ -1,0 +1,7 @@
+# Nothing generated or vendored belongs in this repository.
+# No LabAPI source, no decompiled game assemblies, no build output.
+*.dll
+*.pdb
+bin/
+obj/
+.vs/
